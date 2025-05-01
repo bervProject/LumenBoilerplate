@@ -9,7 +9,7 @@ on:
 jobs:
   laravel-tests:
 
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-24.04
 
     steps:
     - uses: shivammathur/setup-php@9e72090525849c5e82e596468b86eb55e9cc5401
